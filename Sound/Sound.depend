@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1633378148 source:d:\ik\hang\hang\main.cpp
+	<windows.h>
+
+1633378302 source:d:\ik\hang\hang\icon.rc
+
+1633385762 source:d:\ik\window-default-sound-device-changer\hang\icon.rc
+
+1633385762 source:d:\ik\window-default-sound-device-changer\hang\main.cpp
+	<windows.h>
+
+1633385762 source:d:\ik\window-default-sound-device-changer\sound\icon.rc
+
+1633385762 source:d:\ik\window-default-sound-device-changer\sound\main.cpp
+	<windows.h>
+
