@@ -5,6 +5,7 @@ This is basically an overkill shortcut.
 
 Also it's like 2 lines of code so you can easily make sure that it doesn't have hidden china data mining/malware.
 
+[Download](https://github.com/Nevermind5214/Window-Default-sound-device-changer/raw/main/Sound/bin/Release/Sound.exe)
+
 ![Wow, it actually works?!](wow.PNG)
 
-[Download](https://github.com/Nevermind5214/Window-Default-sound-device-changer/raw/main/Sound/bin/Release/Sound.exe)
